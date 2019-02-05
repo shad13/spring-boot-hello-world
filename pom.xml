@@ -27,7 +27,7 @@
 
     <build>
            <plugins>
-             ...
+             
              <plugin>
                <groupId>com.spotify</groupId>
                <artifactId>docker-maven-plugin</artifactId>
@@ -46,7 +46,7 @@
                  </resources>
                </configuration>
              </plugin>
-             ...
+             
            </plugins>
 </build>
 </project>
